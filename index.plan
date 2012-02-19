@@ -1,0 +1,23 @@
+gae.lib.ist short-plan
+
+Simple CMS for lib.ist based on GAE framework
+
+ToDo's 
+	ver. 0.1
+		Classes
+			Template
+				Simple Page template
+			Storage
+				Google Sql
+				Google File
+			Models
+				Book
+				Hierarchy
+			Access
+				Group based
+					Admin
+					Content Manager
+					User
+			Controller
+				REST access
+				JS frontend
