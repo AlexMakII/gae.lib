@@ -1,5 +1,5 @@
-application: new-project-template
-version: 1
+application: gae-lib
+version: 0-1
 runtime: python
 api_version: 1
 
