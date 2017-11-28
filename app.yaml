@@ -3,6 +3,8 @@ version: 0-1
 runtime: python
 api_version: 1
 
+# test others
+
 handlers:
 - url: /favicon\.ico
   static_files: favicon.ico
